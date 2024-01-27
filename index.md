@@ -7,7 +7,7 @@ hero:
   text: Developer 💻
   tagline: Passionate CS student. Thriving on creative projects, learning, and knowledge sharing.
   image:
-    src: ./assets/logo.webp
+    src: ./logo.webp
     alt: profile-pic
   actions:
     - theme: brand

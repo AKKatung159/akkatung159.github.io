@@ -6,7 +6,7 @@ export default defineConfig({
   lang: 'en-US',
   cleanUrls: true,
   themeConfig: {
-    logo: '../assets/logo.webp',
+    logo: '../logo.webp',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Blog', link: '/blog/' },
