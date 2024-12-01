@@ -1,7 +1,7 @@
 # About Me
 
 <div class="profile-section">
-  <img src="../assets/profilePic.webp" alt="Ekkrit Kanchanasiri" class="profile-pic">
+  <img src="/profilePic.webp" alt="Ekkrit Kanchanasiri" class="profile-pic">
   <div class="intro-text">
     <h2>Hi, I'm Katung! 👋</h2>
     <p>A passionate Computer Science student and software developer from Bangkok, Thailand.</p>

@@ -6,7 +6,7 @@ hero:
   text: "Developer 💻"
   tagline: Building innovative solutions with passion and precision. Computer Science student specializing in modern web technologies and software development.
   image:
-    src: ../assets/profilePic.webp
+    src: ./profilePic.webp
     style: "border-radius: 50%; width: 200px; height: 200px;"
     alt: Ekkrit Kanchanasiri
   actions:

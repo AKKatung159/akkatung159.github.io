@@ -12,7 +12,7 @@ const projects = [
     title: 'Appsynth Internal Engagement App',
     emoji: '🏢',
     description: 'A comprehensive internal product system with user engagement, points system, and admin management.',
-    imageSrc: ['/assets/pointhub/1.webp'],
+    imageSrc: ['/pointhub/1.webp'],
     techStack: [
       'Frontend: Next.js, Tailwind CSS',
       'Backend: Go (Clean Architecture)',
@@ -31,7 +31,7 @@ const projects = [
     title: 'Jobs.ocsc Mobile App',
     emoji: '📱',
     description: 'A job search mobile application for the Office of the Civil Service Commission.',
-    imageSrc: ['/assets/jobs/1.webp', '/assets/jobs/2.webp', '/assets/jobs/3.webp', '/assets/jobs/4.webp'],
+    imageSrc: ['/jobs/1.webp', '/jobs/2.webp', '/jobs/3.webp', '/jobs/4.webp'],
     techStack: [
       'Framework: React Native (TypeScript)',
       'Authentication: JWT, ThaiD Login',
@@ -53,10 +53,10 @@ const academicProjects = [
     emoji: '📚',
     description: 'An interactive flashcard web application for efficient learning.',
     imageSrc: [
-      '/assets/flashback/1.webp',
-      '/assets/flashback/2.webp',
-      '/assets/flashback/3.webp',
-      '/assets/flashback/4.webp'
+      '/flashback/1.webp',
+      '/flashback/2.webp',
+      '/flashback/3.webp',
+      '/flashback/4.webp'
     ],
     techStack: [
       'Frontend: Next.js',
@@ -76,7 +76,7 @@ const academicProjects = [
     title: 'Algorithm Arena Gym',
     emoji: '🏋️‍♂️',
     description: 'A comprehensive gym management system with member tracking and scheduling.',
-    imageSrc: ['/assets/algorithm-arena-gym/1.webp', '/assets/algorithm-arena-gym/2.webp', '/assets/algorithm-arena-gym/3.webp', '/assets/algorithm-arena-gym/4.webp', '/assets/algorithm-arena-gym/5.webp', '/assets/algorithm-arena-gym/6.webp'],
+    imageSrc: ['/algorithm-arena-gym/1.webp', '/algorithm-arena-gym/2.webp', '/algorithm-arena-gym/3.webp', '/algorithm-arena-gym/4.webp', '/algorithm-arena-gym/5.webp', '/algorithm-arena-gym/6.webp'],
     techStack: [
       'Frontend: Next.js, Tailwind CSS',
       'Backend: NestJS',
@@ -95,7 +95,7 @@ const academicProjects = [
     title: 'Rubpeunkawmai Event Platform',
     emoji: '🎫',
     description: 'A large-scale event management system for university freshmen, serving 40,000+ users.',
-    imageSrc: ['/assets/rpkm/1.webp'],
+    imageSrc: ['/rpkm/1.webp'],
     techStack: [
       'Backend Development',
       'User Authentication',

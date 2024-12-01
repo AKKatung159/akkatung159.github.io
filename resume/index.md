@@ -1,6 +1,6 @@
 # RESUME
 
-<img id="profile-pic" src="../assets/profilePic.webp" style="border-radius: 50%; width: 150px; height: 150px;">
+<img id="profile-pic" src="/profilePic.webp" style="border-radius: 50%; width: 150px; height: 150px;">
 
 ## Overview
 ### Ekkrit Kanchanasiri
@@ -75,7 +75,7 @@
 - 📧 ekkrit.k@gmail.com
 - 🌎 198, Pathum Wan, Bangkok, 10330, Thailand
 
-![QR Code](../assets/QRCode.webp)
+![QR Code](/QRCode.webp)
 
 ## Socials
 - [LinkedIn](https://www.linkedin.com/in/ekkrit-kanchanasiri)
