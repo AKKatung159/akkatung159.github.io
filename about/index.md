@@ -41,7 +41,7 @@ When I'm not coding, you might find me:
 
 ## Let's Connect!
 
-I'm always excited to collaborate on interesting projects or just chat about technology. Feel free to reach out through my [contact page](/contact) or connect with me on:
+I'm always excited to collaborate on interesting projects or just chat about technology. Feel free to reach out through my [contact page](/contact/) or connect with me on:
 
 - [GitHub](https://github.com/AKKatung159)
 - [LinkedIn](https://www.linkedin.com/in/ekkrit-kanchanasiri)
