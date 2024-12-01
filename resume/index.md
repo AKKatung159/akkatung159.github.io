@@ -6,7 +6,7 @@
 ### Ekkrit Kanchanasiri
 - **Name:** Ekkrit Kanchanasiri
 - **NickName:** Katung
-- **Bio:** I am currently a third-year Computer Science student at Chulalongkorn University. I have a broad skill set in software development and am well-versed in various programming tools and frameworks. I am deeply passionate about software development and thrive on projects that challenge and inspire my creativity.
+- **Bio:** I am currently a fourth-year Computer Science student at Chulalongkorn University. I have a broad skill set in software development and am well-versed in various programming tools and frameworks. I am deeply passionate about software development and thrive on projects that challenge and inspire my creativity.
 
 ## Education
 - **Bachelor of Science in Computer Science**
@@ -15,13 +15,13 @@
 
 ## Skills
 - **Front-End Frameworks/Libraries:** Tailwind CSS, Next.js, Material-UI, React
-- **Back-End Frameworks/Platforms:** DotnetCore API, Nest.js, Django, Node.js
+- **Back-End Frameworks/Platforms:** DotnetCore API, Nest.js, Django, Node.js, Express.js, Go Fiber, Gin
 - **Databases:** MySQL, PostgreSQL, MongoDB, MariaDB, SQLite
 - **Mobile Web & Progressive Web Apps (PWA):** Flutter, React Native
 - **API and Data Exchange:** RESTful APIs, gRPC, Postman, JWT
 - **Design & Prototyping Tools:** Figma, Draw.io, Mermaid Diagramming and charting tool
 - **Versioning and other tools:** GitHub, Slack, Jira, Linear
-- **Server/Deployment:** Docker, Linux, AWS
+- **Server/Deployment:** Docker, Linux, AWS, Google Cloud
 
 ## Experiences
 1. **Backend Developer - FlashBack (Flashcard Web Application)**
@@ -55,6 +55,20 @@
    - Offered advice and mentorship to students, fostering an environment of knowledge sharing.
    - Contributed to discussions about Python's core concepts, including data structures, OOP, lists, and arrays.
    - Facilitated sessions on creating basic web applications using Django, Streamlit, and game development with PyGame.
+
+6. **Full-Stack Engineer Intern - Appsynth**
+   - **May 2024 - December 2024**
+   - Implemented an internal product system for the company, an engagement app with 3 parts:
+     - **Front-End Web (User-facing)**: Built with Next.js, responsive for mobile and desktop (Tailwind CSS).
+     - **Front-End CMS (Admin-facing)**: Web app for managing events, user points, and rewards.
+     - **Back-End**: Developed the API in Go (Golang) using clean architecture. Integrated company login with Gmail domain, OneSignal for notifications, and Mailgun for email updates to HR.
+     - Features include event participation tracking, point redemption, and user-to-user kudos.
+
+7. **Mobile App Developer - Jobs.ocsc**
+   - Developed a job search mobile app using React Native (TypeScript).
+   - Implemented features such as personal information submission, job matching, and press release retrieval.
+   - Integrated JWT authentication and Thai login support.
+   - Enabled users to pin and unpin jobs and press releases.
 
 ## Contact
 - 📞 098-585-6980

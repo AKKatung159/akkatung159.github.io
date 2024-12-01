@@ -1,34 +1,54 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: Ekkrit
-  text: Developer 💻
-  tagline: Passionate CS student. Thriving on creative projects, learning, and knowledge sharing.
+  name: "Ekkrit"
+  text: "Developer 💻"
+  tagline: Building innovative solutions with passion and precision. Computer Science student specializing in modern web technologies and software development.
   image:
-    src: ./logo.webp
-    alt: profile-pic
+    src: ../assets/profilePic.webp
+    style: "border-radius: 50%; width: 200px; height: 200px;"
+    alt: Ekkrit Kanchanasiri
   actions:
     - theme: brand
-      text: About me
+      text: Explore My Work
       link: /about/
     - theme: alt
-      text: Contact
-      link: /contact/
-    - theme: alt
-      text: Resume
+      text: View Resume
       link: /resume/
+    - theme: alt
+      text: Get in Touch
+      link: /contact/
 
 features:
-  - icon: 🚀
-    title: Passionate Developer
-    details: As a Computer Science enthusiast, I approach coding with genuine passion, driving my commitment to continuous learning and innovation.
+  - icon: 🎯
+    title: Full Stack Development
+    details: Experienced in building end-to-end applications using modern technologies like Next.js, NestJS, and Go. Passionate about creating scalable and maintainable solutions.
+    link: /about/#what-i-do
+  
+  - icon: 💡
+    title: Problem Solver
+    details: Analytical thinker with a track record of developing innovative solutions for complex challenges. Led multiple successful projects from conception to deployment.
+    link: /resume/#experiences
+  
   - icon: 🛠️
-    title: Diverse Skill Set
-    details: Proficient in various front-end and back-end technologies, I bring a versatile skill set encompassing frameworks, databases, and design tools.
+    title: Tech Stack
+    details: Proficient in React, Vue.js, Node.js, TypeScript, Go, and more. Experienced with cloud platforms (AWS, GCP) and modern development tools.
+    link: /resume/#skills
+  
   - icon: 🤝
-    title: Effective Collaboration
-    details: With a collaborative mindset, I thrive in team environments, fostering effective communication and cooperation to achieve shared goals and deliver outstanding outcomes.
-    
+    title: Team Player
+    details: Strong collaborator with experience in agile environments. Effective communicator who enjoys working in diverse teams to achieve common goals.
+    link: /about/#beyond-coding
+  
+  - icon: 🎓
+    title: Continuous Learner
+    details: Currently pursuing Computer Science at Chulalongkorn University. Always eager to learn new technologies and stay updated with industry trends.
+    link: /resume/#education
+  
+  - icon: 🌟
+    title: Project Portfolio
+    details: Developed various applications including a gym management system, flashcard platform, and event management system serving 40,000+ users.
+    link: /resume/#experiences
+
 ---

@@ -13,11 +13,12 @@ export default defineConfig({
       { text: 'About', link: '/about/' },
       { text: 'Contact', link: '/contact/' },
       { text: 'Resume', link: '/resume/' },
+      { text: 'Projects', link: '/projects/' },
     ],
 
     sidebar: [
       {
-        text: 'Blog',
+        // text: 'Blog',
         items: [
         ]
       }
